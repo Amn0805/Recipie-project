@@ -15,11 +15,6 @@ This project showcases traditional sweet dishes with a modern UI design.
 
 ---
 
-## 📷 Screenshot
-
-
----
-
 ## 🛠️ Tech Stack
 - HTML5  
 - CSS3 (Flexbox, Gradients, Shadows, Hover Effects)  
